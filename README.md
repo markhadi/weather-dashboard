@@ -2,10 +2,9 @@
 
 A modern, responsive weather dashboard built with React and TypeScript that provides real-time weather information and forecasts.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![React](https://img.shields.io/badge/React-18.x-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.x-blue)
+![React](https://img.shields.io/badge/React-18.x-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.x-blue)
 
-[Live Demo](#) | [Report Bug](#) | [Request Feature](#)
+[Live Demo](#)
 
 ![Weather Dashboard Preview](/api/placeholder/800/400)
 
@@ -47,7 +46,7 @@ yarn install
 3. Create a `.env` file in the root directory and add your OpenWeather API key
 
 ```env
-VITE_OPENWEATHER_API_KEY=your_api_key_here
+VITE_WEATHER_API_KEY=your_api_key_here
 ```
 
 4. Start the development server
@@ -66,21 +65,6 @@ yarn dev
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Weather Data**: [OpenWeather API](https://openweathermap.org/api)
-
-## 📖 Project Structure
-
-```
-weather-dashboard/
-├── src/
-│   ├── components/        # Reusable UI components
-│   ├── hooks/            # Custom React hooks
-│   ├── services/         # API services
-│   ├── types/           # TypeScript type definitions
-│   ├── lib/             # Utility functions
-│   └── constants/       # Application constants
-├── public/              # Static assets
-└── ...config files
-```
 
 ## 🎯 Core Features Breakdown
 
@@ -117,8 +101,7 @@ The dashboard is fully responsive and optimized for:
 Environment variables required:
 
 ```env
-VITE_OPENWEATHER_API_KEY=your_api_key_here
-VITE_API_BASE_URL=https://api.openweathermap.org/data/2.5
+VITE_WEATHER_API_KEY=your_api_key_here
 ```
 
 ## 🤝 Contributing
@@ -129,15 +112,11 @@ VITE_API_BASE_URL=https://api.openweathermap.org/data/2.5
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Markhadi - [markhadi@protonmail.com](markhadi@protonmail.com)
 
-Project Link: [https://github.com/yourusername/weather-dashboard](https://github.com/yourusername/weather-dashboard)
+Project Link: [https://github.com/markhadi/weather-dashboard](https://github.com/markhadi/weather-dashboard)
 
 ## 🙏 Acknowledgments
 
