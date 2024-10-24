@@ -114,7 +114,7 @@ VITE_WEATHER_API_KEY=your_api_key_here
 
 ## 📧 Contact
 
-Markhadi - [markhadi@protonmail.com](markhadi@protonmail.com)
+Markhadi - [markhadi@protonmail.com](mailto:markhadi@protonmail.com)
 
 Project Link: [https://github.com/markhadi/weather-dashboard](https://github.com/markhadi/weather-dashboard)
 
