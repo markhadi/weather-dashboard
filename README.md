@@ -4,9 +4,11 @@ A modern, responsive weather dashboard built with React and TypeScript that prov
 
 ![React](https://img.shields.io/badge/React-18.x-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.x-blue)
 
-[Live Demo](#)
+[Live Demo](https://weather-dashboard-mrm.vercel.app/)
 
-![Weather Dashboard Preview](/api/placeholder/800/400)
+![Weather Dashboard Preview]
+![localhost_5173_](https://github.com/user-attachments/assets/26fdecbc-66f1-449f-9cd9-12f0526b3eea)
+
 
 ## ✨ Features
 
