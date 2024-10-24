@@ -6,7 +6,8 @@ A modern, responsive weather dashboard built with React and TypeScript that prov
 
 [Live Demo](https://weather-dashboard-mrm.vercel.app/)
 
-![Weather Dashboard Preview]
+## Weather Dashboard Preview
+
 ![localhost_5173_](https://github.com/user-attachments/assets/26fdecbc-66f1-449f-9cd9-12f0526b3eea)
 
 
